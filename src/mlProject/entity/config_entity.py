@@ -33,3 +33,17 @@ class ModelTrainerConfig:
     alpha: float
     l1_ratio: float
     target_column: str
+
+@dataclass(frozen=True)
+class ModelEvaluationConfig:
+    """l1_ration, alpha => will be define in params.yaml as there are parameters
+    in params.yaml => we can set params random forest, linear regression, decision tree etc...
+    target will be get from schema.yaml
+    """
+    root_dir: Path
+    test_data_path: Path
+    model_path: Path
+    all_params: dict
+    metric_file_name: Path
+    target_column: str
+    mlflow_uri: str

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/msi/Documents/projects/ml-mlf-prj/mlruns/0/331b49f42e17416981adfd474279235a/artifacts
+end_time: 1724457331979
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 331b49f42e17416981adfd474279235a
+run_name: bustling-loon-979
+run_uuid: 331b49f42e17416981adfd474279235a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724457326177
+status: 3
+tags: []
+user_id: msi

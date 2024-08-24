@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/msi/Documents/projects/ml-mlf-prj/mlruns/0/5cd79803041c4609a0864acb3eca381c/artifacts
+end_time: 1724456918374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5cd79803041c4609a0864acb3eca381c
+run_name: sedate-stag-643
+run_uuid: 5cd79803041c4609a0864acb3eca381c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1724456911083
+status: 3
+tags: []
+user_id: msi
